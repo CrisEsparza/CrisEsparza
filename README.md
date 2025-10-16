@@ -56,12 +56,6 @@ Mi enfoque se centra en **convertir los datos en conocimiento útil**, facilitan
 📧 **cristopher.esparza@gmail.com**  
 📊 [Portafolio de Proyectos (GitHub)](https://github.com/CrisEsparza)  
 
-
-📧 **cristopher.esparza@gmail.com**  
-📊 [Portafolio de Proyectos (GitHub)](https://github.com/CrisEsparza)
-
-💼 [LinkedIn](https://www.linkedin.com/in/cristopher-esparza-cabrales-79b2a135/?trk=public-profile-join-page)
-
 ---
 
 > ✨ *“Los datos cuentan historias; mi misión es traducirlas en decisiones que mejoren la gestión y la calidad en salud.”*
