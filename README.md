@@ -53,7 +53,6 @@ Mi enfoque se centra en **convertir los datos en conocimiento útil**, facilitan
 ## 🌐 Conéctemos
 
 💼 [LinkedIn](https://www.linkedin.com/in/cristopher-esparza-cabrales-79b2a135/?trk=public-profile-join-page)
-
 📧 **cristopher.esparza@gmail.com**  
 📊 [Portafolio de Proyectos (GitHub)](https://github.com/CrisEsparza)
 
